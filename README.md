@@ -18,6 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Github Repo - https://github.com/git-prakash-raj/qr-card.git
+- Live Link -https://git-prakash-raj.github.io/qr-card/
+
 ### Built with
 
 - Semantic HTML5 markup
